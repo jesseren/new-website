@@ -7,14 +7,12 @@ import About from './components/about';
 import {BrowserRouter, Routes, Route,} from "react-router-dom"
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Landing />} />
-        <Route path="/career" element={<Career />} />
-        <Route path="/projects" element={<Projects />}/>
-        <Route path="/about" element={<About />}/>
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Landing />} />
+      <Route path="/career" element={<Career />} />
+      <Route path="/projects" element={<Projects />}/>
+      <Route path="/about" element={<About />}/>
+    </Routes>
   );
 }
 
