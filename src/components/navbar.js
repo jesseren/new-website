@@ -5,7 +5,7 @@ import resume from '../F2022 Resume.pdf'
 function Navbar() {
     return(
         <div style={{zIndex: '3'}} className=''>
-            <Link className='home' to='/'><img src='/home.png' alt='home'/></Link>
+            <Link className='home' to='/'><img src='home.png' alt='home'/></Link>
             <div className='navbar'>
                 <Link to='/career'>Experience</Link>
                 <Link to='/projects'>Projects</Link>
