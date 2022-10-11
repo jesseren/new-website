@@ -3,7 +3,8 @@ const coopDescriptions = [
     ['Improved the user experience of an ad management platform by creating and modifying new React components', 'Optimized relational database queries in Django models and views, improving page performance by 10 seconds'], 
     ['Built an analytics environment that provides crucial user and app insights while supporting smooth future integrations', 'Wrote 20 thorough end-to-end test scripts, ensuring new and existing features functioned properly'], 
     ['Developed SQL scripts to retrieve, update, and delete 10,000+ rows of broker data'], 
-    ['Implemented Python and VBA programs to format, clean, and calculate heating and cooling loads from university HVAC data files', 'Built a comprehensive data visualization tool using Python to display 10 years of HVAC data in Time Series']
+    ['Implemented Python and VBA programs to format, clean, and calculate heating and cooling loads from university HVAC data files', 'Built a comprehensive data visualization tool using Python to display 10 years of HVAC data in Time Series'],
+    ['Created an intuitive no-code tool using React and GraphQL that enables non-engineers to easily create consent prompts','Made improvements and fixed bugs for React components used to create user consent flows','Collaborated with senior engineers to determine features to prioritize in order to create the best product within a limited timeframe']
 ]
 
 const projectsDescriptions = [
