@@ -32,7 +32,7 @@ function About() {
             <div className='about'>
                 <img src='me1.jpg' alt='Jesse Ren'/>
                 <div className='aboutText'>
-                    <p>I am currently enrolled in my 4th year of Environmental Engineering at the University of Waterloo.</p>
+                    <p>I am currently enrolled in my 4th year of Environmental Engineering at the University of Waterloo and am seeking 2023 software engineering new grad roles.</p>
                     <p>While I am concerned about environmental issues and sustainability, I also have
                     a passion for software development and find coding to be an enjoyable application of the engineering
                     problem-solving skills I've obtained in university.</p>
