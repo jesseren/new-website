@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/new-website/static/css/main.7b21e1b6.css",
+    "main.css": "/new-website/static/css/main.1a405189.css",
     "main.js": "/new-website/static/js/main.614c2fd3.js",
     "static/js/787.f9b6a2b1.chunk.js": "/new-website/static/js/787.f9b6a2b1.chunk.js",
     "static/media/me1.jpg": "/new-website/static/media/me1.9e0ce4b072eb34173c14.jpg",
@@ -17,12 +17,12 @@
     "static/media/email.png": "/new-website/static/media/email.e0a9eddb405c9740cccf.png",
     "static/media/spaceinvaders.png": "/new-website/static/media/spaceinvaders.bcbecc29b5b89b8ab088.png",
     "index.html": "/new-website/index.html",
-    "main.7b21e1b6.css.map": "/new-website/static/css/main.7b21e1b6.css.map",
+    "main.1a405189.css.map": "/new-website/static/css/main.1a405189.css.map",
     "main.614c2fd3.js.map": "/new-website/static/js/main.614c2fd3.js.map",
     "787.f9b6a2b1.chunk.js.map": "/new-website/static/js/787.f9b6a2b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b21e1b6.css",
+    "static/css/main.1a405189.css",
     "static/js/main.614c2fd3.js"
   ]
 }
