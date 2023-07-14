@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/new-website/static/css/main.aab5dab2.css",
-    "main.js": "/new-website/static/js/main.9c086a96.js",
+    "main.css": "/new-website/static/css/main.7b21e1b6.css",
+    "main.js": "/new-website/static/js/main.614c2fd3.js",
     "static/js/787.f9b6a2b1.chunk.js": "/new-website/static/js/787.f9b6a2b1.chunk.js",
-    "static/media/W2023 Resume.pdf": "/new-website/static/media/W2023 Resume.2537cc4e7b5429ce7313.pdf",
+    "static/media/me1.jpg": "/new-website/static/media/me1.9e0ce4b072eb34173c14.jpg",
+    "static/media/valineups.png": "/new-website/static/media/valineups.dfe118b4abb39f932a37.png",
+    "static/media/feed_me.jpeg": "/new-website/static/media/feed_me.115f41ab998ffd67e3a3.jpeg",
+    "static/media/Graduation Resume 2.0.pdf": "/new-website/static/media/Graduation Resume 2.0.d22f9bf3c3888e90d954.pdf",
+    "static/media/economical.png": "/new-website/static/media/economical.99522a17c66cd1d21674.png",
+    "static/media/uoft.png": "/new-website/static/media/uoft.dc226a407fa829c1c9f4.png",
+    "static/media/home.png": "/new-website/static/media/home.6edf4bf2b93c418190c8.png",
+    "static/media/github.png": "/new-website/static/media/github.a81166c83f00f887ae01.png",
+    "static/media/k.png": "/new-website/static/media/k.bf4b6dca80c133d1bb9f.png",
+    "static/media/tritonwear.png": "/new-website/static/media/tritonwear.082ac0c3a3a5005af46a.png",
+    "static/media/linkedin.png": "/new-website/static/media/linkedin.b74871b0731a08d6aae0.png",
+    "static/media/email.png": "/new-website/static/media/email.e0a9eddb405c9740cccf.png",
+    "static/media/spaceinvaders.png": "/new-website/static/media/spaceinvaders.bcbecc29b5b89b8ab088.png",
     "index.html": "/new-website/index.html",
-    "main.aab5dab2.css.map": "/new-website/static/css/main.aab5dab2.css.map",
-    "main.9c086a96.js.map": "/new-website/static/js/main.9c086a96.js.map",
+    "main.7b21e1b6.css.map": "/new-website/static/css/main.7b21e1b6.css.map",
+    "main.614c2fd3.js.map": "/new-website/static/js/main.614c2fd3.js.map",
     "787.f9b6a2b1.chunk.js.map": "/new-website/static/js/787.f9b6a2b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aab5dab2.css",
-    "static/js/main.9c086a96.js"
+    "static/css/main.7b21e1b6.css",
+    "static/js/main.614c2fd3.js"
   ]
 }
