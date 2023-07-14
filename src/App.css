@@ -342,7 +342,7 @@ div {
   }
 
   .projects img {
-    height: 330px;
+    height: 350px;
     width: 350px;
     border-radius: 25px;
     display: flex;
@@ -352,7 +352,7 @@ div {
   }
 
   .projects .back {
-    height: 330px;
+    height: 350px;
     width: 350px;
   }
 
