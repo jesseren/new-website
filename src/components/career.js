@@ -1,9 +1,14 @@
 import React, { useState, useEffect, useRef } from "react";
-import NET from "vanta/dist/vanta.net.min";
 import Navbar from "./navbar";
 import InfoBox from "./infoBox";
 import { coopDescriptions } from "./descriptions";
 import Icons from "./icons";
+import meta from "../images/meta-logo copy.jpg";
+import tulip from "../images/tulip.png";
+import polar from "../images/k.png";
+import tritonwear from "../images/tritonwear.png";
+import economical from "../images/economical.png";
+import uoft from "../images/uoft.png";
 
 function Career() {
   return (
@@ -16,7 +21,7 @@ function Career() {
             company="Meta"
             link="https://about.meta.com/"
             position="Frontend Engineer Intern"
-            imgurl="meta-logo copy.jpg"
+            imgurl={meta}
             date="May 2022 - August 2022"
             description={coopDescriptions[5]}
           />
@@ -25,7 +30,7 @@ function Career() {
             company="Tulip"
             link="https://www.tulip.com/about-us/"
             position="Software Developer"
-            imgurl="tulip.png"
+            imgurl={tulip}
             date="September - December 2021"
             description={coopDescriptions[0]}
           />
@@ -36,7 +41,7 @@ function Career() {
             company="Polar"
             link="https://www.createwithpolar.com/solutions"
             position="Software Developer"
-            imgurl="k.png"
+            imgurl={polar}
             date="January - April 2021"
             description={coopDescriptions[1]}
           />
@@ -45,7 +50,7 @@ function Career() {
             company="Tritonwear"
             link="https://www.tritonwear.com"
             position="Software Engineer"
-            imgurl="tritonwear.png"
+            imgurl={tritonwear}
             date="May - August 2020"
             description={coopDescriptions[2]}
           />
@@ -56,7 +61,7 @@ function Career() {
             company="Economical"
             link="https://www.economical.com/en/home"
             position="Access Analyst"
-            imgurl="economical.png"
+            imgurl={economical}
             date="September - December 2019"
             description={coopDescriptions[3]}
           />
@@ -65,7 +70,7 @@ function Career() {
             company="UofT"
             link="https://www.utsc.utoronto.ca/home/utsc"
             position="Engineering Assistant"
-            imgurl="uoft.png"
+            imgurl={uoft}
             date="January - April 2019"
             description={coopDescriptions[4]}
           />

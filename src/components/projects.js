@@ -1,24 +1,14 @@
-import React, { useState, useEffect, useRef } from "react";
-import NET from "vanta/dist/vanta.net.min";
+import React from "react";
 import Navbar from "./navbar";
 import ProjectBox from "./projectBox";
 import { projectsDescriptions } from "./descriptions";
 import Icons from "./icons";
+import valineupsImg from "../images/valineups.png";
+import spaceInvadersImg from "../images/spaceinvaders.png";
+import feedMe from "../images/feed_me.jpeg";
 
 function Projects(props) {
-  const valineups = (
-    <p>
-      The production build is located{" "}
-      <a
-        href="http://valineups.herokuapp.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        here
-      </a>
-      .
-    </p>
-  );
+  const valineups = null;
   const spaceInvaders = (
     <p>
       A video demo is located{" "}
@@ -40,21 +30,21 @@ function Projects(props) {
         <div className="first">
           <ProjectBox
             description={projectsDescriptions[0]}
-            imgurl="valineups.png"
+            imgurl={valineupsImg}
             className="valineups"
             custom={valineups}
             github="https://github.com/billwang80/valineups-app"
           />
           <ProjectBox
             description={projectsDescriptions[1]}
-            imgurl="feed_me.jpeg"
+            imgurl={feedMe}
             className="feedme"
             github="https://github.com/stephhsu/feed-me"
           />
         </div>
         <ProjectBox
           description={projectsDescriptions[2]}
-          imgurl="spaceinvaders.png"
+          imgurl={spaceInvadersImg}
           className="spaceinvaders"
           custom={spaceInvaders}
           github="https://github.com/jesseren/SpaceInvaders"

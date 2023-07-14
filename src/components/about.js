@@ -1,21 +1,19 @@
-import React, { useState, useEffect, useRef } from "react";
-import NET from "vanta/dist/vanta.net.min";
+import React from "react";
 import Navbar from "./navbar";
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { Carousel } from "react-responsive-carousel";
 import Icons from "./icons";
+import me1 from "../images/me1.jpg";
 
 function About() {
   return (
     <div className="landing aboutLanding">
       <Navbar />
       <div className="about">
-        <img src={"me1.jpg"} alt="Jesse Ren" />
+        <img src={me1} alt="Jesse Ren" />
         <div className="aboutText">
           <p>
-            I am currently enrolled in my 4th year of Environmental Engineering
-            at the University of Waterloo and am seeking 2023 software
-            engineering new grad roles.
+            I recently graduated from Environmental Engineering at the
+            University of Waterloo and am seeking 2023 software engineering new
+            grad roles.
           </p>
           <p>
             While I am concerned about environmental issues and sustainability,

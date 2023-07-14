@@ -1,12 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import resume from "../W2023 Resume.pdf";
+import resume from "../Graduation Resume 2.0.pdf";
+import home from "../images/home.png";
 
 function Navbar() {
   return (
     <div style={{ zIndex: "3" }} className="">
       <Link className="home" to="/">
-        <img src="home.png" alt="home" />
+        <img src={home} alt="home" />
       </Link>
       <div className="navbar">
         <Link to="/career">Experience</Link>
