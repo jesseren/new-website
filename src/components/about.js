@@ -12,8 +12,8 @@ function About() {
         <div className="aboutText">
           <p>
             I recently graduated from Environmental Engineering at the
-            University of Waterloo and am seeking 2023 software engineering new
-            grad roles.
+            University of Waterloo and am seeking opportunities in
+            frontend/fullstack engineering.
           </p>
           <p>
             While I am concerned about environmental issues and sustainability,
