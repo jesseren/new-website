@@ -10,7 +10,7 @@ function Landing() {
       <div className="content">
         <p>Hi, I'm Jesse Ren.</p>
         <p>
-          An engineering student who loves coding, learning, and meeting new
+          An engineering graduate who loves coding, learning, and meeting new
           people!
         </p>
       </div>
