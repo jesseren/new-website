@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/new-website/static/css/main.aab1f6da.css",
-    "main.js": "/new-website/static/js/main.e6ad50ad.js",
+    "main.css": "/new-website/static/css/main.c0990e9c.css",
+    "main.js": "/new-website/static/js/main.af9a60d6.js",
     "static/js/787.f9b6a2b1.chunk.js": "/new-website/static/js/787.f9b6a2b1.chunk.js",
     "static/media/me1.jpg": "/new-website/static/media/me1.9e0ce4b072eb34173c14.jpg",
     "static/media/valineups.png": "/new-website/static/media/valineups.dfe118b4abb39f932a37.png",
     "static/media/feed_me.jpeg": "/new-website/static/media/feed_me.115f41ab998ffd67e3a3.jpeg",
     "static/media/Graduation Resume 2.0.pdf": "/new-website/static/media/Graduation Resume 2.0.d22f9bf3c3888e90d954.pdf",
+    "static/media/LOR copy.png": "/new-website/static/media/LOR copy.636b5be09038ecc01814.png",
     "static/media/economical.png": "/new-website/static/media/economical.99522a17c66cd1d21674.png",
     "static/media/uoft.png": "/new-website/static/media/uoft.dc226a407fa829c1c9f4.png",
     "static/media/home.png": "/new-website/static/media/home.6edf4bf2b93c418190c8.png",
@@ -17,12 +18,12 @@
     "static/media/email.png": "/new-website/static/media/email.e0a9eddb405c9740cccf.png",
     "static/media/spaceinvaders.png": "/new-website/static/media/spaceinvaders.bcbecc29b5b89b8ab088.png",
     "index.html": "/new-website/index.html",
-    "main.aab1f6da.css.map": "/new-website/static/css/main.aab1f6da.css.map",
-    "main.e6ad50ad.js.map": "/new-website/static/js/main.e6ad50ad.js.map",
+    "main.c0990e9c.css.map": "/new-website/static/css/main.c0990e9c.css.map",
+    "main.af9a60d6.js.map": "/new-website/static/js/main.af9a60d6.js.map",
     "787.f9b6a2b1.chunk.js.map": "/new-website/static/js/787.f9b6a2b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aab1f6da.css",
-    "static/js/main.e6ad50ad.js"
+    "static/css/main.c0990e9c.css",
+    "static/js/main.af9a60d6.js"
   ]
 }
