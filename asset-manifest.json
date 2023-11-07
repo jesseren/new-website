@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/new-website/static/css/main.c0990e9c.css",
-    "main.js": "/new-website/static/js/main.af9a60d6.js",
+    "main.css": "/new-website/static/css/main.20af833b.css",
+    "main.js": "/new-website/static/js/main.dadea53a.js",
     "static/js/787.f9b6a2b1.chunk.js": "/new-website/static/js/787.f9b6a2b1.chunk.js",
     "static/media/me1.jpg": "/new-website/static/media/me1.9e0ce4b072eb34173c14.jpg",
     "static/media/valineups.png": "/new-website/static/media/valineups.dfe118b4abb39f932a37.png",
     "static/media/feed_me.jpeg": "/new-website/static/media/feed_me.115f41ab998ffd67e3a3.jpeg",
-    "static/media/Graduation Resume 2.0.pdf": "/new-website/static/media/Graduation Resume 2.0.d22f9bf3c3888e90d954.pdf",
-    "static/media/LOR copy.png": "/new-website/static/media/LOR copy.636b5be09038ecc01814.png",
+    "static/media/Graduation Resume 4.0.pdf": "/new-website/static/media/Graduation Resume 4.0.311599049c8ce0f99168.pdf",
+    "static/media/LOR.png": "/new-website/static/media/LOR.3dbb1f10e4811f07e300.png",
     "static/media/economical.png": "/new-website/static/media/economical.99522a17c66cd1d21674.png",
     "static/media/uoft.png": "/new-website/static/media/uoft.dc226a407fa829c1c9f4.png",
     "static/media/home.png": "/new-website/static/media/home.6edf4bf2b93c418190c8.png",
     "static/media/github.png": "/new-website/static/media/github.a81166c83f00f887ae01.png",
     "static/media/k.png": "/new-website/static/media/k.bf4b6dca80c133d1bb9f.png",
     "static/media/tritonwear.png": "/new-website/static/media/tritonwear.082ac0c3a3a5005af46a.png",
+    "static/media/PhotoBase.png": "/new-website/static/media/PhotoBase.c5ed3ad357352eb6c466.png",
     "static/media/linkedin.png": "/new-website/static/media/linkedin.b74871b0731a08d6aae0.png",
     "static/media/email.png": "/new-website/static/media/email.e0a9eddb405c9740cccf.png",
     "static/media/spaceinvaders.png": "/new-website/static/media/spaceinvaders.bcbecc29b5b89b8ab088.png",
     "index.html": "/new-website/index.html",
-    "main.c0990e9c.css.map": "/new-website/static/css/main.c0990e9c.css.map",
-    "main.af9a60d6.js.map": "/new-website/static/js/main.af9a60d6.js.map",
+    "main.20af833b.css.map": "/new-website/static/css/main.20af833b.css.map",
+    "main.dadea53a.js.map": "/new-website/static/js/main.dadea53a.js.map",
     "787.f9b6a2b1.chunk.js.map": "/new-website/static/js/787.f9b6a2b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0990e9c.css",
-    "static/js/main.af9a60d6.js"
+    "static/css/main.20af833b.css",
+    "static/js/main.dadea53a.js"
   ]
 }
