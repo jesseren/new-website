@@ -6,6 +6,8 @@ import Icons from "./icons";
 import valineupsImg from "../images/valineups.png";
 import spaceInvadersImg from "../images/spaceinvaders.png";
 import feedMe from "../images/feed_me.jpeg";
+import LOR from "../images/LOR.png";
+import PhotoBase from "../images/PhotoBase.png";
 
 function Projects(props) {
   const valineups = null;
@@ -27,7 +29,21 @@ function Projects(props) {
     <div className="landing projectLanding">
       <Navbar />
       <div className="projects">
-        <div className="first">
+        <div className="row">
+          <ProjectBox
+            description={projectsDescriptions[4]}
+            imgurl={PhotoBase}
+            className="PhotoBase"
+            github="https://github.com/jesseren/PhotoBase"
+          />
+          <ProjectBox
+            description={projectsDescriptions[3]}
+            imgurl={LOR}
+            className="lor"
+            github="https://github.com/billwang80/leftonread"
+          />
+        </div>
+        <div className="row">
           <ProjectBox
             description={projectsDescriptions[0]}
             imgurl={valineupsImg}
@@ -42,14 +58,17 @@ function Projects(props) {
             github="https://github.com/stephhsu/feed-me"
           />
         </div>
-        <ProjectBox
-          description={projectsDescriptions[2]}
-          imgurl={spaceInvadersImg}
-          className="spaceinvaders"
-          custom={spaceInvaders}
-          github="https://github.com/jesseren/SpaceInvaders"
-        />
+        <div className="row">
+          <ProjectBox
+            description={projectsDescriptions[2]}
+            imgurl={spaceInvadersImg}
+            className="spaceinvaders"
+            custom={spaceInvaders}
+            github="https://github.com/jesseren/SpaceInvaders"
+          />
+        </div>
       </div>
+
       <Icons />
     </div>
   );

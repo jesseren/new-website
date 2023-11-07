@@ -82,16 +82,14 @@ div {
   color: white;
 }
 
-.first {
-  display: flex;
-}
-
-.second {
+.row {
   display: flex;
 }
 
 .infoBox {
-    margin: 40px
+    margin: 40px;
+    font-size: small;
+    line-height: 1.6;
 }
 
 .front {
@@ -163,7 +161,7 @@ div {
   margin-top: 0;
   padding-top: 10px;
   padding-left: 20px;
-  padding-right: 10px;
+  padding-right: 20px;
   margin-bottom: 0;
 }
 
@@ -181,10 +179,11 @@ div {
 
 .back li {
   padding-bottom: 20px;
+  padding-right: 20px;
 }
 
 .projects img {
-  height: 320px;
+  height: 350px;
   width: 500px;
   border-radius: 25px;
   display: flex;
@@ -194,7 +193,8 @@ div {
 }
 
 .projects .back {
-  height: 320px;
+  height: 350px;
+  width: 500px;
 }
 
 .projects img:hover {
@@ -260,12 +260,15 @@ div {
   padding-bottom: 10px;
 }
 
+@media only screen and (max-height: 1350px) {
+  .projectLanding {
+    height: 1400px;
+  }
+}
+
 @media only screen and (max-height: 1200px) {
   .careerLanding {
     height: 1230px;
-  }
-  .projectLanding {
-    height: 100vh;
   }
 }
 
@@ -309,40 +312,45 @@ div {
   .icons img {
     margin: 5px;
   }
-  .first {
-    display: inline;
-  }
-  
-  .second {
+  .row {
     display: inline;
   }
 
   .front {
-    width: 350px;
-    height: 400px;
+    width: 320px;
+    height: 350px;
   }
   .back {
-    width: 350px;
-    height: 400px;
+    width: 320px;
+    height: 350px;
+  }
+  
+  .back p {
+    padding-right: 10px;
+  }
+
+  .back li {
+    padding-bottom: 10px;
+    padding-right: 10px;
   }
   .careerLanding {
-    height: 2800px;
+    height: 2600px;
   }
 
   .infoBox {
-    margin: 0px;
     margin-top: 40px;
+    margin-right: 20px;
   }
   .infoBox img {
     width: 300px;
   }
 
   .projectLanding {
-    height: 1300px;
+    height: 2100px;
   }
 
   .projects img {
-    height: 350px;
+    height: 320px;
     width: 350px;
     border-radius: 25px;
     display: flex;
@@ -352,8 +360,16 @@ div {
   }
 
   .projects .back {
-    height: 350px;
+    height: 320px;
     width: 350px;
+  }
+
+  .back p:first-child {
+    padding-top: 20px;
+  }
+
+  .PhotoBase {
+    line-height: 1.3;
   }
 
   .aboutLanding {

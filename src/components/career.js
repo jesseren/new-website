@@ -15,7 +15,7 @@ function Career() {
     <div className="landing careerLanding">
       <Navbar />
       <div className="career">
-        <div className="first">
+        <div className="row">
           <InfoBox
             className="meta"
             company="Meta"
@@ -35,7 +35,7 @@ function Career() {
             description={coopDescriptions[0]}
           />
         </div>
-        <div className="second">
+        <div className="row">
           <InfoBox
             className="polar"
             company="Polar"
@@ -55,7 +55,7 @@ function Career() {
             description={coopDescriptions[2]}
           />
         </div>
-        <div className="second">
+        <div className="row">
           <InfoBox
             className="economical"
             company="Economical"
