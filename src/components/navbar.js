@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import resume from "../Graduation Resume 4.0.pdf";
+import resume from "../Graduation Resume 5.0.pdf";
 import home from "../images/home.png";
 
 function Navbar() {
