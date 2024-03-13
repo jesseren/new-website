@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/new-website/static/css/main.20af833b.css",
-    "main.js": "/new-website/static/js/main.dadea53a.js",
+    "main.js": "/new-website/static/js/main.21448284.js",
     "static/js/787.f9b6a2b1.chunk.js": "/new-website/static/js/787.f9b6a2b1.chunk.js",
     "static/media/me1.jpg": "/new-website/static/media/me1.9e0ce4b072eb34173c14.jpg",
     "static/media/valineups.png": "/new-website/static/media/valineups.dfe118b4abb39f932a37.png",
     "static/media/feed_me.jpeg": "/new-website/static/media/feed_me.115f41ab998ffd67e3a3.jpeg",
-    "static/media/Graduation Resume 4.0.pdf": "/new-website/static/media/Graduation Resume 4.0.311599049c8ce0f99168.pdf",
+    "static/media/Graduation Resume 5.0.pdf": "/new-website/static/media/Graduation Resume 5.0.61d213d1e6b4b1194adc.pdf",
     "static/media/LOR.png": "/new-website/static/media/LOR.3dbb1f10e4811f07e300.png",
     "static/media/economical.png": "/new-website/static/media/economical.99522a17c66cd1d21674.png",
     "static/media/uoft.png": "/new-website/static/media/uoft.dc226a407fa829c1c9f4.png",
@@ -20,11 +20,11 @@
     "static/media/spaceinvaders.png": "/new-website/static/media/spaceinvaders.bcbecc29b5b89b8ab088.png",
     "index.html": "/new-website/index.html",
     "main.20af833b.css.map": "/new-website/static/css/main.20af833b.css.map",
-    "main.dadea53a.js.map": "/new-website/static/js/main.dadea53a.js.map",
+    "main.21448284.js.map": "/new-website/static/js/main.21448284.js.map",
     "787.f9b6a2b1.chunk.js.map": "/new-website/static/js/787.f9b6a2b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20af833b.css",
-    "static/js/main.dadea53a.js"
+    "static/js/main.21448284.js"
   ]
 }
